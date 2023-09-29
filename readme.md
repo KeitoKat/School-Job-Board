@@ -1,5 +1,6 @@
 **A project created by a team of 3 students for CPSC 304 in UBC.**
 **Khammy, Adi, and Jonathan.**
+
 *NOTE: the source file of this project is copyrighted and thereby cannot be shared with the general public. For more information, please reach out to khammyschl@gmail.com
 
 # School job board for clubs
